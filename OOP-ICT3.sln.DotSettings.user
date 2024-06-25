@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=86958b59_002D0c67_002D4ed1_002Da532_002D0f3597fea712/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::85394B74-8357-41B8-BD7C-D09D0D604726::net8.0::OOP_ICT.FIRST.TESTS.Tests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F845816A-559D-4E83-8FA2-992DB7A86AE6::net8.0::OOP_ICT.SECOND.TESTS.Tests.BlackJackGame_ThrowsIfNotEnoughBalance&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F845816A-559D-4E83-8FA2-992DB7A86AE6::net8.0::OOP_ICT.SECOND.TESTS.Tests.BlackJackGame_WinsIfDealerHasTooMuch&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::B72DC3A0-842C-406D-ACD1-310D6723C33A::net8.0::OOP_ICT.THIRD.TESTS.Tests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::D1072136-E642-482E-A16F-7A4B64405AE2::net8.0::OOP_ICT.FOURTH.TESTS.HandEvaluatorTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;D1072136-E642-482E-A16F-7A4B64405AE2/f:Tests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
